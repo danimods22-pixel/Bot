@@ -1,0 +1,2 @@
+python-telegram-bot>=20.7,<21
+cxxfilt>=0.3.0
