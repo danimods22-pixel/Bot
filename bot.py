@@ -27,7 +27,7 @@ from engine.apk_extract import extract_from_apk, candidate_lib_names_for_mode
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 log = logging.getLogger("il2cpp-bot")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "ISI_TOKEN_BOT_DI_SINI")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8878343478:AAE8Zm-ZQ2XaO5JJbK4nRID-Cyiag_grwGY")
 
 # Semua file kerja (upload + hasil dump) disimpan per-user di sini, mirip folder
 # "Dumper" di app Android (tapi dipisah per user_id biar gak nyampur punya orang lain).
